@@ -1,14 +1,3 @@
-"row_num","col_num","value"
-0,3,55
-0,4,78
-1,0,19
-1,2,21
-1,3,3
-1,4,81
-2,1,48
-2,2,50
-2,3,1
-3,2,33
-3,4,67
-4,0,95
-4,4,31
+version https://git-lfs.github.com/spec/v1
+oid sha256:d60437a17b0a807b45f2eda79539343044f53f65d6cc73f480559776e9c2cc15
+size 117
